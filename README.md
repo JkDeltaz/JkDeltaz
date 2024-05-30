@@ -12,4 +12,4 @@
 - Email Pessoal: caiocesar-01@hotmail.com
 - Discord: @JkDelta
 
-![](https://media1.tenor.com/m/NlQC1d5Q4a4AAAAd/jjk-manga.gif)
+![](https://media1.tenor.com/m/cBD0C0fhgDEAAAAC/higuruma-jjk.gif)
