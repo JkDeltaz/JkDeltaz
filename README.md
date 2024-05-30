@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boa noite.
 
-<!--
-**JkDeltaz/JkDeltaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me chamo Caio César
 
-Here are some ideas to get you started:
+- Estou estudando Python, SQL, HTML/CSS e GDScript (Godot)
+- Faço parte de um estúdio de jogos indie chamado Luna.
+- Atualmente estou desenvolvendo jogos para minha escola, na forma de paródias do ambiente escolar.
+- Utilizo esse espaço para organizar e compartilhar meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+
+- Email Pessoal: caiocesar-01@hotmail.com
+- Discord: @JkDelta
+
+![](https://media1.tenor.com/m/NlQC1d5Q4a4AAAAd/jjk-manga.gif)
