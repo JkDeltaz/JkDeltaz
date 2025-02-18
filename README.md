@@ -1,10 +1,10 @@
 ## Boa noite.
 
-## Me chamo Caio César, tenho 17 anos.
+## Me chamo Caio César, tenho 18 anos.
 
 - Estou estudando Python, SQL, HTML/CSS e GDScript (Godot)
 - Faço parte de um estúdio de jogos indie chamado Luna.
-- Atualmente estou desenvolvendo jogos para minha escola, na forma de paródias do ambiente escolar.
+- Atualmente estou desenvolvendo jogos pelo godot e cursando ADS na FATEC.
 - Utilizo esse espaço para organizar e compartilhar meus projetos.
 
 ## Contatos
