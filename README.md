@@ -11,5 +11,3 @@
 
 - Email Pessoal: caiocesar.santos1511@gmail.com
 - Discord: @JkDelta
-
-![](https://media1.tenor.com/m/cBD0C0fhgDEAAAAC/higuruma-jjk.gif)
