@@ -10,4 +10,3 @@
 ## Contatos
 
 - Email Pessoal: caiocesar.santos1511@gmail.com
-- Discord: @JkDelta
